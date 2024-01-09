@@ -22,3 +22,13 @@ public class ExponentCalculator {
         return x * exponentPower(x, y-1);
     }
 }
+
+/*
+OUTPUT
+
+Please enter the base number:
+5
+Please enter the exponent number:
+2
+The exponential answer is: 25
+ */

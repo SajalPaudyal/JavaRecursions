@@ -9,6 +9,12 @@ public class FactorialUsingNonTail {
     }
 
     public static void main(String[] args){
-        System.out.println(factorial(5));
+        System.out.println("The factorial of 5 is: "+factorial(5));
     }
 }
+
+/*
+OUTPUT
+
+The factorial of 5 is: 120
+ */

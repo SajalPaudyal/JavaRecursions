@@ -23,3 +23,17 @@ public class FibonacciRecursive {
         }
     }
 }
+
+/*
+OUTPUT
+
+Enter the number of numbers you want in the Fibonacci series:
+6
+Fibonacci series up to 6 terms are:
+0
+1
+1
+2
+3
+5
+ */

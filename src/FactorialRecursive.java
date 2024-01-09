@@ -25,3 +25,11 @@ public class FactorialRecursive {
         }
     }
 }
+
+/*
+OUTPUT
+
+Please enter the number of which you want the factorial of:
+6
+The factorial of the given number is: 720.0
+ */

@@ -22,3 +22,12 @@ public class MultiplicationUsingRecursion{
         return b + multiply(a-1, b);
     }
 }
+/*
+ OUTPUT
+
+Please enter the first integer:
+10
+please enter the second integer:
+20
+The product of given two numbers is: 200
+ */

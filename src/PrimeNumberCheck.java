@@ -31,3 +31,15 @@ public class PrimeNumberCheck {
         return isPrime(num, divisor+1);
     }
 }
+
+/*
+OUTPUT (Case: Non Prime)
+Please provide the number:
+46
+46 is not a prime number
+
+OUTPUT (Case: Prime)
+Please provide the number:
+7
+7 is a prime number
+ */

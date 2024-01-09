@@ -19,3 +19,16 @@ public class TowerOfHanoi {
         moveDisc(number-1, temp, end, start);
     }
 }
+
+/*
+ OUTPUT
+ Please enter the number of discs you want in the problem
+3
+Move disc 1 from A to C
+Move disc 2 from A to B
+Move disc 1 from C to B
+Move disc 3 from A to C
+Move disc 1 from B to A
+Move disc 2 from B to C
+Move disc 1 from A to C
+ */

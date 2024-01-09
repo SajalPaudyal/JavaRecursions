@@ -16,3 +16,9 @@ public class NestedRecursion {
          System.out.println("The sum of the numbers in array is: "+ totalSum);
      }
 }
+
+/*
+OUTPUT
+
+The sum of the numbers in array is: 42
+ */

@@ -25,3 +25,12 @@ public class GCDCalculator {
         }
     }
 }
+
+/*
+ OUTPUT
+Please enter the first number
+10
+Please enter the second number
+50
+The GCD of the given two numbers is: 10
+ */

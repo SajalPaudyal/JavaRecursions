@@ -21,3 +21,20 @@ public class MultiplicationTable{
         }
     }
 }
+
+/*
+ OUTPUT
+Please enter the number for multiplication table:
+3
+The table of 3 up to 10 is
+3 X 1= 3
+3 X 2= 6
+3 X 3= 9
+3 X 4= 12
+3 X 5= 15
+3 X 6= 18
+3 X 7= 21
+3 X 8= 24
+3 X 9= 27
+3 X 10= 30
+ */
